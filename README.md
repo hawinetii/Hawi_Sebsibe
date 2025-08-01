@@ -28,10 +28,10 @@ Hi there 👋 I'm Hawi Sebsibe Tadesse
 ---
 
 ### 🔗 Connect With Me
-- 💼 [LinkedIn]((https://www.linkedin.com/in/hawisebsibe/))  
+- 💼 [LinkedIn]:((https://www.linkedin.com/in/hawisebsibe/))  
 - 📫 Email:hawisebsibe4@gmail.com 
 - 🌐 Portfolio: 
 
 ---
 
-> “Consistency over intensity. One step at a time.” — Let's go, Hawi! 🚀
+> “Consistency over intensity. One step at a time.” 
